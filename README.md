@@ -11,5 +11,5 @@ This project is a simple calculator.
 ## How to Run
 
 ## Purpose
-This project performs addition and subtraction.
+This project performs addition, subtraction, multiplication, and division.
 
